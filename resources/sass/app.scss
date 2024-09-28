@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+@import '../css/dashboard.css';
+@import '../css/dashboard.rtl.css';
+
+@import '../../node_modules/@docsearch/css/dist/style.scss';
+
+@import '../css/style_dashboard.css';
+
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.min.css');
